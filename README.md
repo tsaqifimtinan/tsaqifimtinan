@@ -48,8 +48,6 @@
 | **Posturify** | Posture-focused Android app (APK) | Kotlin, Android |
 | **Cratebridge** | DJ Software libraries converter | Python, SwiftUI |
 
-> Add repo links here, e.g. `[Railnet](https://github.com/tsaqifimtinan/railnet)`.
-
 ## Let's connect
 
 <p>
